@@ -5,7 +5,7 @@
 
 .box{
   background: linear-gradient(53deg, #0f1014, #364256);
-  height: 100vh;
+  height: auto;
   padding:150px 0px;
 }
 
@@ -58,7 +58,7 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica N
 }
 .box2{
   background: linear-gradient(220deg, #030304, #20262f);
-  height: 100vh;
+  height: auto;
   padding:150px 0px;
 }
 .heading2{
@@ -92,7 +92,7 @@ font-weight: 500;
 }
 .box3{
   background: linear-gradient(220deg, #030304, #20262f);
-  height: 100vh;
+  height: 100%;
   padding:150px 0px;
 }
 .card1{
@@ -107,6 +107,82 @@ font-weight: 500;
   color: #fff;
   font-size: 24px;
   margin: 0px 0px 30px;
-  margin-bottom: 30px;
+  margin: 30px;
 
+}
+
+ .card2{
+ 
+  max-width : 400px ;
+  width: 100%;
+  vertical-align: middle;
+  height : auto;
+ 
+}
+.card3{
+ 
+  max-width : 400px ;
+  width: 100%;
+  vertical-align: middle;
+  height : auto;
+ 
+}
+.card4{
+ 
+  max-width : 400px ;
+  width: 100%;
+  vertical-align: middle;
+  height : auto;
+ 
+}
+.card5{
+ 
+  max-width : 400px ;
+  width: 100%;
+  vertical-align: middle;
+  height : auto;
+ 
+}
+.card6{
+ 
+  max-width : 400px ;
+  width: 100%;
+  vertical-align: middle;
+  height : auto;
+ 
+}
+.box4{
+  background: #030304;
+  height: 100%;
+  padding:150px 0px;
+}
+.border{
+  background-color: #2F2F4B;
+  height: auto;
+  padding: 64px 50px;
+
+}
+.h{
+  font-size: large;
+  color: #FEFEFE;
+  font-weight: 1000;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.start{
+  font-family: apparat, cursive;
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+  margin-bottom: 10px;
+  letter-spacing: 2px;
+  color: #5E616A;
+}
+.start2{
+  text-align: center;
+    font-size: 50px;
+    letter-spacing: -1.75px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 20px;
 }
